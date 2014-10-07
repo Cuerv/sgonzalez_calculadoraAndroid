@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calcu</string>
+    <string name="hello_world"> </string>
+    <string name="action_settings">Settings</string>
+    <string name="botonSumar">SUMAR</string>
+    <string name="botonRestar">RESTAR</string>
+    <string name="botonMultiplicar">MULTIPLICAR</string>
+    <string name="botonDividir">DIVIDIR</string>
+
+</resources>
